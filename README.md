@@ -16,7 +16,7 @@ A secure Angular 21 development setup. This angular skeleton comes with pre-inst
 docker compose up -d; docker compose logs -f;
 ```
 
-The first time startup will take 5 or more minutes based on your internet connection.
+The first-time startup will take 5 or more minutes, depending on your internet connection.
 
 3. Visit the following URLs to verify the working
 
