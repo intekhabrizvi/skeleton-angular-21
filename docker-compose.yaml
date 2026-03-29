@@ -21,7 +21,7 @@ services:
     command: >
       sh -c "
         if [ ! -d node_modules/chokidar ]; then
-          npm install;
+          npm ci;
         fi &&
         npx ng serve --host 0.0.0.0 --port 4200 --poll=2000
       "
